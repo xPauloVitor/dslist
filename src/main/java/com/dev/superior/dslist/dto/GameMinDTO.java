@@ -10,7 +10,6 @@ public class GameMinDTO {
 	private String shortDescription;
 	
 	public GameMinDTO() {
-		
 	}
 
 	public GameMinDTO(Game entity) {
